@@ -10,7 +10,7 @@ Ok,new task.
 
 
 - `Heros`
-  - [x] Site - [https://docs.stratz.com/index.html]
-  - [x] Hero - [https://docs.stratz.com/api/v1/Hero]
+  - [x] Site - [https://docs.stratz.com/index.html](https://docs.stratz.com/index.html)
+  - [x] Hero - [https://docs.stratz.com/api/v1/Hero](https://docs.stratz.com/api/v1/Hero)
 - Match
-  - [x] Site - [https://docs.opendota.com/]
+  - [x] Site - [https://docs.opendota.com/](https://docs.opendota.com/)
