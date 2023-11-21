@@ -1,6 +1,3 @@
-# softtiny.github.com
-coding
-
 # TO-DO LIST
 
 Ok,new task.
