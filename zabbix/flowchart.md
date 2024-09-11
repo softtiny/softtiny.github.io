@@ -33,7 +33,8 @@ flowchart TB
                     end
                 end
             end
-            t_l_t(((template link another template)))
+            t_l_t(((template link
+other template)))
             template--"link"-->t_l_t
             t_l_t --"unlink"--> unlink{clear ?}
             unlink --'No'--> new_template_template
