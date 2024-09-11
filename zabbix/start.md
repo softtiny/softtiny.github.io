@@ -1,3 +1,9 @@
+---
+layout: post
+title: Zabbix start
+---
+
+
 - [ ] Make graph
 
 
