@@ -1,4 +1,7 @@
-# Flowchart
+---
+layout: post
+title: Zabbix  Flowchart
+---
 
 # flowchart
 ```mermaid
