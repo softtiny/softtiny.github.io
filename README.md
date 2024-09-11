@@ -1,7 +1,8 @@
 
 # Site map
 - Zabbix
-  - [ ] [start](./zabbix/start)
+  - [ ] [`start`](./zabbix/start)
+  - [ ] [`flowchart`](./zabbix/flowchart)
 
 # TO-DO LIST
 
@@ -12,8 +13,8 @@ Ok,new task.
 
 
 - `Heros`
-  - [ ] Site - [https://docs.stratz.com/index.html](https://docs.stratz.com/index.html)
-  - [ ] Hero - [https://docs.stratz.com/api/v1/Hero](https://docs.stratz.com/api/v1/Hero)
+  - [ ] `Site` - [https://docs.stratz.com/index.html](https://docs.stratz.com/index.html)
+  - [ ] `Hero` - [https://docs.stratz.com/api/v1/Hero](https://docs.stratz.com/api/v1/Hero)
 - Match
-  - [ ] Site - [https://docs.opendota.com/](https://docs.opendota.com/)
-  - [ ] Match - [https://api.opendota.com/api/matches/{match_id}](https://api.opendota.com/api/matches/7444244158)
+  - [ ] `Site` - [https://docs.opendota.com/](https://docs.opendota.com/)
+  - [ ] `Match` - [https://api.opendota.com/api/matches/{match_id}](https://api.opendota.com/api/matches/7444244158)
