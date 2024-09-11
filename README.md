@@ -1,3 +1,8 @@
+
+# Site map
+- Zabbix
+  - [ ] [start](./zabbix/start)
+
 # TO-DO LIST
 
 Ok,new task.
