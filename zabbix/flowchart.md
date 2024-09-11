@@ -2,7 +2,7 @@
 layout: post
 title: Zabbix  Flowchart
 ---
-
+<!-- {% raw %} -->
 # flowchart
 ```mermaid
 flowchart TB
@@ -76,3 +76,4 @@ flowchart TB
     end
     
 ```
+<!-- {% endraw %} -->
