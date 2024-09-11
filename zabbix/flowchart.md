@@ -73,6 +73,7 @@ flowchart TB
             end
         end
         zabbix_sender --"demo:eth0,sda,xxx"-->trapper_discovery
+        zabbix_agent2 --"get demo data"-->zabbix_sender
     end
     
 ```
