@@ -8,6 +8,10 @@
 
 Ok,new task.
 
+##  WEB PAGE TTS 
+- tts languages selelct
+- read range (start ,end ,step)
+- data about: months,weeks, seasons ...
 
 ## Dota2 api debug
 
