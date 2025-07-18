@@ -27,3 +27,10 @@ Ok,new task.
 - Match
   - [ ] `Site` - [https://docs.opendota.com/](https://docs.opendota.com/)
   - [ ] `Match` - [https://api.opendota.com/api/matches/{match_id}](https://api.opendota.com/api/matches/7444244158)
+
+
+---
+This site is open source. [Improve this page](https://github.com/softtiny/softtiny.github.io/edit/master/README.md) •
+---
+[kunnka2](https://kunkka2.github.io) •
+[softtiny](https://kunkka2.github.io) •
